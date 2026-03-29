@@ -54,7 +54,7 @@ Example Questions:
 > "How does the login system work?"
 
 # 📂Project Structure
-
+```
 ├── backend
 │   ├── app.py
 │   ├── chunker.py
@@ -77,5 +77,5 @@ Example Questions:
 └── ui
     ├── app.py
     └── static
-
+```
     
